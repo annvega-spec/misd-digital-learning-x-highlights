@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-18T17:53:00.665865+00:00",
+  "updated": "2026-09-18T18:06:05.714731+00:00",
   "source": "x-api-v2",
   "posts": [
     {
@@ -8,11 +8,13 @@
       "library_id": "annvega",
       "profile_url": "https://x.com/annvega",
       "post": {
-        "id": "2100745076691341709",
-        "text": "Our librarians rock @McAllenISD See what we are doing! https://t.co/G72yqdSiwg",
-        "created_at": "2026-09-18T00:33:50.000Z",
-        "url": "https://x.com/i/web/status/2100745076691341709",
-        "media": []
+        "id": "2100969083306975549",
+        "text": "@bot has helped me do some things that I thought would be impossible.  \ud83d\udc40 https://t.co/6SpGAooesm",
+        "created_at": "2026-09-18T15:23:58.000Z",
+        "url": "https://x.com/i/web/status/2100969083306975549",
+        "media": [
+          "https://pbs.twimg.com/media/HSgj6lXXwAArHz9.jpg"
+        ]
       },
       "error": null
     },
@@ -22,12 +24,13 @@
       "library_id": "jamesvarlack",
       "profile_url": "https://x.com/jamesvarlack",
       "post": {
-        "id": "2090888768999870845",
-        "text": "Our Digital Learning Team wishing everyone a great school year! @McAllenISD #mcallenisdtech @annvega @rfluegel @gosand2 \ud83d\ude4c\ud83c\udffe\ud83d\udcbb\ud83c\udfeb https://t.co/FFTU4czebG",
-        "created_at": "2026-08-21T19:48:24.000Z",
-        "url": "https://x.com/i/web/status/2090888768999870845",
+        "id": "2101009500492759392",
+        "text": "Had a blast helping these @TerriersTravis earn their first AI Educator Series Badge \ud83d\ude4c\ud83c\udffe  #GoogleAIEducatorSeries @GoogleForEdu  @McAllenISD #mcallenisdtech @annvega @rfluegel @gosand2 \ud83d\udc15 @DGonzalezSHSU https://t.co/UXLumAQqaO",
+        "created_at": "2026-09-18T18:04:34.000Z",
+        "url": "https://x.com/i/web/status/2101009500492759392",
         "media": [
-          "https://pbs.twimg.com/amplify_video_thumb/2090888717187624960/img/bMMU7KItrh9v2n-3.jpg"
+          "https://pbs.twimg.com/media/HShJARxWkAAR5Vq.jpg",
+          "https://pbs.twimg.com/media/HShJARxW4AAvM89.jpg"
         ]
       },
       "error": null
