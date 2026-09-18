@@ -1,0 +1,24 @@
+{
+  "libraries": [
+    {
+      "name": "Ann Vega",
+      "handle": "annvega",
+      "id": "annvega"
+    },
+    {
+      "name": "James Varlack",
+      "handle": "jamesvarlack",
+      "id": "jamesvarlack"
+    },
+    {
+      "name": "R. Fluegel",
+      "handle": "rfluegel",
+      "id": "rfluegel"
+    },
+    {
+      "name": "GoSand2",
+      "handle": "gosand2",
+      "id": "gosand2"
+    }
+  ]
+}
