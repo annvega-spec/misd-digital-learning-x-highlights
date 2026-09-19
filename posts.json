@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-19T14:37:34.291361+00:00",
+  "updated": "2026-09-19T15:12:27.491703+00:00",
   "source": "x-api-v2",
   "posts": [
     {
@@ -27,18 +27,26 @@
       "library_id": "jamesvarlack",
       "profile_url": "https://x.com/jamesvarlack",
       "post": {
-        "id": "2101009500492759392",
-        "text": "Had a blast helping these @TerriersTravis earn their first AI Educator Series Badge \ud83d\ude4c\ud83c\udffe  #GoogleAIEducatorSeries @GoogleForEdu  @McAllenISD #mcallenisdtech @annvega @rfluegel @gosand2 \ud83d\udc15 @DGonzalezSHSU https://t.co/UXLumAQqaO",
-        "created_at": "2026-09-18T18:04:34.000Z",
-        "url": "https://x.com/i/web/status/2101009500492759392",
+        "id": "2101322622709486043",
+        "text": "Great insights and learning with @GoogleForEdu Badgeathon \ud83d\ude2e\ud83d\udc4f\ud83c\udffe\ud83d\ude4c\ud83c\udffe Yeah and you get to earn badges too! #GoogleAIEducatorSeries Join the learning here: https://t.co/OZBV3tWYKP @annvega @rfluegel @gosand2 #mcallenisdtech https://t.co/nl3vjPje27",
+        "created_at": "2026-09-19T14:48:48.000Z",
+        "url": "https://x.com/i/web/status/2101322622709486043",
         "media": [
           {
             "type": "photo",
-            "url": "https://pbs.twimg.com/media/HShJARxWkAAR5Vq.jpg"
+            "url": "https://pbs.twimg.com/media/HSllyjcWAAAKtu_.jpg"
           },
           {
             "type": "photo",
-            "url": "https://pbs.twimg.com/media/HShJARxW4AAvM89.jpg"
+            "url": "https://pbs.twimg.com/media/HSllyjfXUAAiWP5.jpg"
+          },
+          {
+            "type": "photo",
+            "url": "https://pbs.twimg.com/media/HSllyjjXMAIg583.jpg"
+          },
+          {
+            "type": "photo",
+            "url": "https://pbs.twimg.com/media/HSllyjcWoAEnfZx.jpg"
           }
         ]
       },
