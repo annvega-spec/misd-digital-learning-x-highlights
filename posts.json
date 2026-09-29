@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-29T13:04:20.225013+00:00",
+  "updated": "2026-09-29T13:39:24.235735+00:00",
   "source": "x-api-v2",
   "posts": [
     {
@@ -8,14 +8,15 @@
       "library_id": "annvega",
       "profile_url": "https://x.com/annvega",
       "post": {
-        "id": "2103143761476006052",
-        "text": "This is great @Mcmemlibrary \ud83e\udd73 https://t.co/e3lkAZuqHQ",
-        "created_at": "2026-09-24T15:25:21.000Z",
-        "url": "https://x.com/i/web/status/2103143761476006052",
+        "id": "2104924216168517644",
+        "text": "Love this writing center @LibrarianLopez https://t.co/6X4K04FZxt",
+        "created_at": "2026-09-29T13:20:15.000Z",
+        "url": "https://x.com/i/web/status/2104924216168517644",
         "media": [
           {
-            "type": "photo",
-            "url": "https://pbs.twimg.com/media/HS_eGqFW4AAD-3U.jpg"
+            "type": "video",
+            "url": "https://video.twimg.com/amplify_video/2104924146475937792/vid/avc1/1080x1920/jZfBZTgmCMDTK61I.mp4",
+            "poster": "https://pbs.twimg.com/amplify_video_thumb/2104924146475937792/img/ur8BR1HL-wTUe3Q9.jpg"
           }
         ]
       },
