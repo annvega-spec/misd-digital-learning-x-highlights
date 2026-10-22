@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-22T17:05:25.977288+00:00",
+  "updated": "2026-10-22T22:08:07.644494+00:00",
   "source": "x-api-v2",
   "posts": [
     {
@@ -8,14 +8,15 @@
       "library_id": "annvega",
       "profile_url": "https://x.com/annvega",
       "post": {
-        "id": "2105704478733152634",
-        "text": "@stallions045 Lego Wall https://t.co/9zAnj6p4Fc",
-        "created_at": "2026-10-01T17:00:44.000Z",
-        "url": "https://x.com/i/web/status/2105704478733152634",
+        "id": "2113349178147406298",
+        "text": "Love this library! https://t.co/EWlkOySeOE",
+        "created_at": "2026-10-22T19:18:02.000Z",
+        "url": "https://x.com/i/web/status/2113349178147406298",
         "media": [
           {
-            "type": "photo",
-            "url": "https://pbs.twimg.com/media/HTj3DJlXgAAh3NQ.jpg"
+            "type": "video",
+            "url": "https://video.twimg.com/amplify_video/2113349128151252992/vid/avc1/1080x1920/0-DQG5A5x5qKa89s.mp4",
+            "poster": "https://pbs.twimg.com/amplify_video_thumb/2113349128151252992/img/rdjA3J-wPH8SMBkN.jpg"
           }
         ]
       },
@@ -58,14 +59,18 @@
       "library_id": "rfluegel",
       "profile_url": "https://x.com/rfluegel",
       "post": {
-        "id": "2108349473663619386",
-        "text": "Thursday night football. Go Mustangs \ud83c\udfc8\ud83d\udc34@McAllenMemorial @annvega @jamesvarlack @McAllenISD https://t.co/JyIgjzF0lG",
-        "created_at": "2026-10-09T00:11:00.000Z",
-        "url": "https://x.com/i/web/status/2108349473663619386",
+        "id": "2113361526530666991",
+        "text": "It was a joy to share with @AJacksonElem parents today as we cover Skyward for parents and staying up to date with the @McAllenISD app. @annvega @jamesvarlack #McAllenISDDigitalLearning https://t.co/d3WidDlct1",
+        "created_at": "2026-10-22T20:07:06.000Z",
+        "url": "https://x.com/i/web/status/2113361526530666991",
         "media": [
           {
             "type": "photo",
-            "url": "https://pbs.twimg.com/media/HUJcp57WkAApBlw.jpg"
+            "url": "https://pbs.twimg.com/media/HVQqmKkWAAEW7_6.jpg"
+          },
+          {
+            "type": "photo",
+            "url": "https://pbs.twimg.com/media/HVQqmKSWsAAREtV.jpg"
           }
         ]
       },
